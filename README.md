@@ -1,4 +1,4 @@
-# n11817143 Video Transcoder
+# Video Transcoder
 
 This repository contains a stateless, cloud-native video transcoder application that aligns with the CAB432 assignment requirements. The stack comprises a React frontend, an Express backend, and AWS managed services for authentication, storage, caching, and persistence. All infrastructure and application code are pre-configured for the following university-issued resources:
 
